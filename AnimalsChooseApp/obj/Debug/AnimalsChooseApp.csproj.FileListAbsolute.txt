@@ -1,0 +1,10 @@
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\AnimalsChooseApp\obj\Debug\AnimalsChooseApp.csprojAssemblyReference.cache
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\AnimalsChooseApp\obj\Debug\AnimalsChooseApp.Form1.resources
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\AnimalsChooseApp\obj\Debug\AnimalsChooseApp.Properties.Resources.resources
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\AnimalsChooseApp\obj\Debug\AnimalsChooseApp.csproj.GenerateResource.cache
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\AnimalsChooseApp\obj\Debug\AnimalsChooseApp.csproj.CoreCompileInputs.cache
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\AnimalsChooseApp\bin\Debug\AnimalsChooseApp.exe.config
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\AnimalsChooseApp\bin\Debug\AnimalsChooseApp.exe
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\AnimalsChooseApp\bin\Debug\AnimalsChooseApp.pdb
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\AnimalsChooseApp\obj\Debug\AnimalsChooseApp.exe
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\AnimalsChooseApp\obj\Debug\AnimalsChooseApp.pdb
