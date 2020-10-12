@@ -1,0 +1,10 @@
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\ListBoxClassroomApp\bin\Debug\ListBoxClassroomApp.exe.config
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\ListBoxClassroomApp\bin\Debug\ListBoxClassroomApp.exe
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\ListBoxClassroomApp\bin\Debug\ListBoxClassroomApp.pdb
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\ListBoxClassroomApp\obj\Debug\ListBoxClassroomApp.csprojAssemblyReference.cache
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\ListBoxClassroomApp\obj\Debug\ListBoxClassroomApp.Form1.resources
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\ListBoxClassroomApp\obj\Debug\ListBoxClassroomApp.Properties.Resources.resources
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\ListBoxClassroomApp\obj\Debug\ListBoxClassroomApp.csproj.GenerateResource.cache
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\ListBoxClassroomApp\obj\Debug\ListBoxClassroomApp.csproj.CoreCompileInputs.cache
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\ListBoxClassroomApp\obj\Debug\ListBoxClassroomApp.exe
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\ListBoxClassroomApp\obj\Debug\ListBoxClassroomApp.pdb

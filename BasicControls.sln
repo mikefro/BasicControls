@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalsChooseApp", "Animals
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioButtonColorApp", "RadioButtonColorApp\RadioButtonColorApp.csproj", "{9E33F0E4-234C-49CA-B294-857828EEE48E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBoxColorsApp", "ComboBoxColorsApp\ComboBoxColorsApp.csproj", "{0D93C07E-F3DA-4F84-BB03-47F8496BBF58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBoxClassroomApp", "ListBoxClassroomApp\ListBoxClassroomApp.csproj", "{33E0ABBA-7FA1-4F8C-9CE9-8026286877D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{9E33F0E4-234C-49CA-B294-857828EEE48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E33F0E4-234C-49CA-B294-857828EEE48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E33F0E4-234C-49CA-B294-857828EEE48E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D93C07E-F3DA-4F84-BB03-47F8496BBF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D93C07E-F3DA-4F84-BB03-47F8496BBF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D93C07E-F3DA-4F84-BB03-47F8496BBF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D93C07E-F3DA-4F84-BB03-47F8496BBF58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E0ABBA-7FA1-4F8C-9CE9-8026286877D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E0ABBA-7FA1-4F8C-9CE9-8026286877D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E0ABBA-7FA1-4F8C-9CE9-8026286877D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E0ABBA-7FA1-4F8C-9CE9-8026286877D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
