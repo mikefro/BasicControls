@@ -24,8 +24,8 @@ namespace ListBoxClassroomApp
         }
 
         /// <summary>
-        /// A method that can clear any Listbox; just put the Listbox name that you want clean like argument 
-        /// Also clean the textbox1 in this app
+        /// A method that can clear any Listbox; putting the Listboxname by argument is Cleared 
+        /// Also clean the textbox1 for this particular app
         /// </summary>
         /// <param name="lb"></param>
         private void ClearListbox(ListBox lb)

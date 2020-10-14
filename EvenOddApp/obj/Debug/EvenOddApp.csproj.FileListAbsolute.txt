@@ -1,0 +1,10 @@
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\EvenOddApp\bin\Debug\EvenOddApp.exe.config
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\EvenOddApp\bin\Debug\EvenOddApp.exe
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\EvenOddApp\bin\Debug\EvenOddApp.pdb
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\EvenOddApp\obj\Debug\EvenOddApp.csprojAssemblyReference.cache
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\EvenOddApp\obj\Debug\EvenOddApp.Form1.resources
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\EvenOddApp\obj\Debug\EvenOddApp.Properties.Resources.resources
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\EvenOddApp\obj\Debug\EvenOddApp.csproj.GenerateResource.cache
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\EvenOddApp\obj\Debug\EvenOddApp.csproj.CoreCompileInputs.cache
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\EvenOddApp\obj\Debug\EvenOddApp.exe
+C:\Users\MichaelEnglish\source\repos\BasicControlsSln\EvenOddApp\obj\Debug\EvenOddApp.pdb

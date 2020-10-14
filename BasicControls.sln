@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBoxColorsApp", "ComboB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBoxClassroomApp", "ListBoxClassroomApp\ListBoxClassroomApp.csproj", "{33E0ABBA-7FA1-4F8C-9CE9-8026286877D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOddApp", "EvenOddApp\EvenOddApp.csproj", "{75901BCD-B972-46D4-A63E-C07356EF71AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollBarApp", "ScrollBarApp\ScrollBarApp.csproj", "{F439E463-BF7D-448A-A948-BA47D19A65E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{33E0ABBA-7FA1-4F8C-9CE9-8026286877D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33E0ABBA-7FA1-4F8C-9CE9-8026286877D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33E0ABBA-7FA1-4F8C-9CE9-8026286877D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75901BCD-B972-46D4-A63E-C07356EF71AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75901BCD-B972-46D4-A63E-C07356EF71AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75901BCD-B972-46D4-A63E-C07356EF71AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75901BCD-B972-46D4-A63E-C07356EF71AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F439E463-BF7D-448A-A948-BA47D19A65E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F439E463-BF7D-448A-A948-BA47D19A65E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F439E463-BF7D-448A-A948-BA47D19A65E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F439E463-BF7D-448A-A948-BA47D19A65E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
